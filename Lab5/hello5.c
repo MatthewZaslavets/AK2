@@ -40,7 +40,7 @@ struct list_item {
 	ktime_t start_time;
 	ktime_t finish_time;
 };
-MODULE_AUTHOR("Serhii Popovych <serhii.popovych@globallogic.com>");
+MODULE_AUTHOR("matthew zaslavets");
 MODULE_DESCRIPTION("Hello, world in Linux Kernel Training");
 MODULE_LICENSE("Dual BSD/GPL");
 static LIST_HEAD(head);
